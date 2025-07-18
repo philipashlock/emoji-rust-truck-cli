@@ -1,0 +1,7 @@
+[package]
+name = "emoji-info"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+emojis = "0.7.0"  # or latest version on crates.io
