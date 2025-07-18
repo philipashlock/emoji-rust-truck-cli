@@ -9,11 +9,11 @@
 
 ## Run
 
-`./target/debug/emoji_info_cli "😎"`
+`./target/debug/emoji-info "😎"`
 
 or 
 
-`./target/debug/emoji_info_cli "U+1FAE9"`
+`./target/debug/emoji-info "U+1FAE9"`
 
 
 
